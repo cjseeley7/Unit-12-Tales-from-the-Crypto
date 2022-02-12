@@ -35,3 +35,9 @@ In this assignment, we used natural language processing to understand the sentim
 'crypto', 11  
 'token', 10  
 
+
+## Bitcoin Word Cloud  
+![Stock Sentiment](Images/Bitcoin-Word-Cloud.png)
+
+## Ethereum Word Cloud  
+![Stock Sentiment](Images/Ethereum-Word-Cloud.png)
